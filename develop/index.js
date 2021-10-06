@@ -36,7 +36,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then(answers => {
 
-        const fileName = `./README.md`;
+        const fileName = `./readMeDemo.md`;
         const content = 
     `
 # ${answers.title}
