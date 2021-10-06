@@ -14,5 +14,6 @@ To Install you must follow these steps:
 7. Answer the questions to generate the ReadMe
 
 ## Walkthrough
-Below is a walkthrough of the application
+Check out the link below for a walkthrough of the application
 
+https://watch.screencastify.com/v/w3wXEQN0Fe0FSrY4vE9i
